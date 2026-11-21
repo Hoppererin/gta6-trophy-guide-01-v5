@@ -1,0 +1,250 @@
+{
+ "checklist": {
+  "activities": [
+   {
+    "goal": "30 of 40",
+    "item": "Unique races won"
+   },
+   {
+    "goal": "10 of 13",
+    "item": "Race challenge gold medals"
+   },
+   {
+    "goal": "42 of 42",
+    "item": "Shooting Range gold medals"
+   },
+   {
+    "goal": "4 of 4",
+    "item": "Video games played"
+   },
+   {
+    "goal": "5 of 7",
+    "item": "Pool opponents defeated"
+   },
+   {
+    "goal": "2 of 3",
+    "item": "Mini golf locations played"
+   },
+   {
+    "goal": "90 of 100",
+    "item": "Basketball hoops scored"
+   },
+   {
+    "goal": "42 of 42",
+    "item": "Drone Time Trials completed"
+   },
+   {
+    "goal": "300 of 397",
+    "item": "Stunts completed"
+   },
+   {
+    "goal": "70 of 80",
+    "item": "Challenges completed"
+   },
+   {
+    "goal": "15 of 15",
+    "item": "Bret’s Target Decks"
+   }
+  ],
+  "collectibles": [
+   {
+    "goal": "5 of 7",
+    "item": "Kenton’s Treasure sets"
+   },
+   {
+    "goal": "15 of 18",
+    "item": "Collectible Card sets"
+   },
+   {
+    "goal": "100",
+    "item": "WAiNK locations scanned"
+   },
+   {
+    "goal": "33 of 33",
+    "item": "Underwater Discoveries"
+   },
+   {
+    "goal": "30 of 34",
+    "item": "Magazines, Books and Comics"
+   },
+   {
+    "goal": "15 of 18",
+    "item": "Meditations (18 for the trophy)"
+   },
+   {
+    "goal": "100 of 125",
+    "item": "Cocaine Flamingos"
+   },
+   {
+    "goal": "2 of 2",
+    "item": "Unique Playlists"
+   },
+   {
+    "goal": "70 of 79",
+    "item": "Discovered Styles"
+   },
+   {
+    "goal": "200 of 277",
+    "item": "Base-model vehicles scanned"
+   },
+   {
+    "goal": "50 of 66",
+    "item": "Standard Issue weapons"
+   },
+   {
+    "goal": "100 of 255",
+    "item": "Animals studied"
+   }
+  ],
+  "note": "Checklist numbers are from KeenGamer [4] and PowerPyx [2]; the trophy-vs-checklist comparison is from CryptoGames [6] (Press-Start list, 18 Nov 2026). The checklist appears in game only after the story, under Progress > Stats > 100% Completion. Progress made during the story already counts.",
+  "robberiesNote": "Bank vaults unlock only in Chapter 4, through the optional mission “That’s Where The Money Is…” [2][4].",
+  "robberies": [
+   {
+    "goal": "100",
+    "item": "Optional tasks completed"
+   },
+   {
+    "goal": "39 of 39",
+    "item": "Gang Operations"
+   },
+   {
+    "goal": "22 of 22",
+    "item": "Bank Jobs"
+   },
+   {
+    "goal": "7 of 7",
+    "item": "Payday Loan Jobs"
+   },
+   {
+    "goal": "34 of 35",
+    "item": "Smash ‘N’ Grabs"
+   },
+   {
+    "goal": "50 of 91",
+    "item": "Stick Ups"
+   },
+   {
+    "goal": "8 of 8",
+    "item": "Bank Vaults"
+   },
+   {
+    "goal": "$100,000",
+    "item": "Narcotics fenced"
+   },
+   {
+    "goal": "$100,000",
+    "item": "Jewelry fenced"
+   },
+   {
+    "goal": "$250,000",
+    "item": "Marked Bills fenced"
+   },
+   {
+    "goal": "$200,000",
+    "item": "Vehicles fenced"
+   }
+  ]
+ },
+ "stages": [
+  {
+   "focus": "Play the story, enjoy it, and do the one thing that cannot wait.",
+   "hours": "60–80 h",
+   "id": "S1",
+   "name": "Story first",
+   "trophies": [
+    "just-like-paradise",
+    "paradise-lost",
+    "t-s-ass-drug-money",
+    "vice-city-baby",
+    "top-of-the-world-ma",
+    "you-gotta-know-when-to-get-off",
+    "trust",
+    "break-the-bank",
+    "family-matters",
+    "dwnfall",
+    "hi-jacked",
+    "snow-storm",
+    "positive-mental-attitude"
+   ],
+   "warn": "CH 1 ONLY — after the mission Down to Earth, Lucia meditates on the balcony at Jason’s house. Do it before Chapter 1 ends. See dispute D02."
+  },
+  {
+   "focus": "Unlock co-op free roam and bank the two partner trophies while the story is still fresh.",
+   "hours": "in S1",
+   "id": "S2",
+   "name": "Partner play",
+   "trophies": [
+    "hot-together",
+    "retail-therapy",
+    "personal-best"
+   ],
+   "warn": "Unlocks after Chapter 2, mission Coffee Break — that is when you can call your partner and play together."
+  },
+  {
+   "focus": "The long grind. Everything here is still available after the story, so do it after the finale.",
+   "hours": "~100 h",
+   "id": "S3",
+   "name": "The 100% grind",
+   "trophies": [
+    "a-long-road",
+    "cunning-stunts",
+    "the-shootist",
+    "top-fun",
+    "earn-cash-not-kudos",
+    "master-of-none",
+    "baited-my-tackle",
+    "stick-fiddler",
+    "one-last-thing",
+    "dont-touch-my-deck",
+    "you-wainker",
+    "whip-it-good",
+    "the-goodtime-state",
+    "maximum-withdrawal",
+    "a-classic-blitz-play",
+    "pest-control",
+    "dime-on-the-dollar",
+    "treat-yo-self",
+    "little-boxes",
+    "on-the-spot",
+    "gunslinger",
+    "catch-me-if-you-can",
+    "challenging-tank",
+    "sneakthief",
+    "actions-speak-louder"
+   ],
+   "warn": "100% is closer to 60% true completion [2] — most collectibles are only partly required. Follow the checklist numbers, not the totals."
+  },
+  {
+   "focus": "Character questlines and stranger chains. Start each chain the moment it unlocks (see dispute D04).",
+   "hours": "~10 h",
+   "id": "S4",
+   "name": "Strangers & Freaks",
+   "trophies": [
+    "road-to-rehabilitation",
+    "this-was-no-boat-accident",
+    "the-lone-rider",
+    "supply-and-demand",
+    "spin-on-this",
+    "fair-game",
+    "strangers-and-freaks"
+   ],
+   "warn": "Kenton goes quiet for a while in the story and comes back in Chapter 2–3 — he is not missable [2]."
+  },
+  {
+   "focus": "The five unsolved trophies plus anything still open, then the platinum.",
+   "hours": "cleanup",
+   "id": "S5",
+   "name": "Cleanup & platinum",
+   "trophies": [
+    "in-the-beginning",
+    "capital-offense",
+    "bad-luck-i-guess",
+    "the-truth-is-out-there",
+    "ten-pin",
+    "lets-go-bowling",
+    "vice-got-a-price"
+   ],
+   "warn": "Five trophies are still unsolved as of 21 Nov 2026 [2][5][6]. This guide shows both versions of every disputed claim instead of guessing."
+  }
+ ]
+}
