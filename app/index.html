@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vice Platinum II — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header id="topbar">
+  <div class="brand">
+    <span class="brand-mark" aria-hidden="true">◆</span>
+    <div>
+      <h1>VICE PLATINUM <span class="ii">II</span></h1>
+      <p class="subtitle">GTA VI Trophy Guide &amp; Tracker — 55 trophies · PS5 · works offline</p>
+    </div>
+  </div>
+  <div class="progress-block" id="progressBlock">
+    <span class="progress-text" id="progressText">0 / 55 earned</span>
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+    <span class="progress-pct" id="progressPct">0%</span>
+  </div>
+</header>
+
+<section id="auditStrip" aria-label="Audit strip"></section>
+
+<nav id="toolbar">
+  <input id="search" type="search" placeholder="Search a trophy…" aria-label="Search trophies">
+  <div id="chips" role="group" aria-label="Filter by kind"></div>
+  <label class="spoiler-toggle"><input type="checkbox" id="spoilerToggle"> Spoilers off</label>
+  <button id="exportBtn" type="button">Export</button>
+  <button id="importBtn" type="button">Import</button>
+  <input id="importFile" type="file" accept="application/json,.json" hidden>
+</nav>
+
+<nav id="viewTabs" role="tablist" aria-label="Views">
+  <button data-view="checklist" role="tab" aria-selected="true">Checklist</button>
+  <button data-view="roadmap" role="tab" aria-selected="false">Roadmap S1–S5</button>
+  <button data-view="disputes" role="tab" aria-selected="false">Sources differ · <span id="disputeCount">20</span></button>
+  <button data-view="sources" role="tab" aria-selected="false">Sources</button>
+</nav>
+
+<main>
+  <section id="view-checklist" class="view" aria-label="Checklist">
+    <div id="listPane" aria-label="Trophy list"></div>
+    <div id="detailPane" aria-label="Trophy guide"></div>
+    <aside id="railPane" aria-label="Next up and sources"></aside>
+  </section>
+
+  <section id="view-roadmap" class="view" hidden aria-label="Roadmap to the platinum">
+    <div id="roadmapStages"></div>
+    <div id="checklist100"></div>
+  </section>
+
+  <section id="view-disputes" class="view" hidden aria-label="Disputed claims">
+    <p class="view-intro">Every claim below is one where the published guides disagree. Both versions are shown, then our call — so you can see the disagreement instead of inheriting one side of it.</p>
+    <div id="disputeList"></div>
+  </section>
+
+  <section id="view-sources" class="view" hidden aria-label="Sources">
+    <p class="view-intro">Numbered sources. Every guide step cites its sources by number, inline. Sources marked “via” were quoted by the page named — they were not opened directly, and the app says so.</p>
+    <div id="sourceList"></div>
+  </section>
+</main>
+
+<footer id="footer">
+  <p>All guides are this entry’s own words, written 2026-11-21 from the numbered sources — nothing is copied from another guide. Official names, descriptions and grades are shown as PlayStation publishes them. No network requests: the app runs entirely from its own files. <span id="footerCounts"></span></p>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
